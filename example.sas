@@ -1,3 +1,3 @@
 /* new comment added */
-* proc
+* proc2
 proc options; quit;
