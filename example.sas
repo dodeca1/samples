@@ -1,3 +1,3 @@
 /* new comment added */
-* proc23333555
+* procedure options 
 proc options; quit;
